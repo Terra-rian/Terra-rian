@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! This is still a work in progress, so don't expect too much from me!
 
-My Discord account is Terrarian#0380. I do competitive coding sometimes, but I mostly write code for hobby projects such as my Discord bot.
+My Discord account is Terrarian#9999. I do competitive coding sometimes, but I mostly write code for hobby projects such as my Discord bot.
 
 ### Code Languages
 
