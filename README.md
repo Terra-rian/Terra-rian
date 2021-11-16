@@ -6,6 +6,8 @@ Welcome to my GitHub profile! This is still a work in progress, so don't expect 
 
 My Discord account is Terrarian#1265. I do competitive coding sometimes, but I mostly write code for hobby projects such as my Discord bot.
 
+## My Latest GitHub Activity
+
 <!--START_SECTION:activity-->
 
 ## Platforms / Environments / Tools
