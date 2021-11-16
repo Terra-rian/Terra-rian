@@ -7,6 +7,12 @@ Welcome to my GitHub profile! This is still a work in progress, so don't expect 
 My Discord account is Terrarian#1265. I do competitive coding sometimes, but I mostly write code for hobby projects such as my Discord bot.
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#19](https://github.com/ApocalypseCalculator/Someone/issues/19) in [ApocalypseCalculator/Someone](https://github.com/ApocalypseCalculator/Someone)
+2. 🗣 Commented on [#11](https://github.com/Terra-rian/snakecord/issues/11) in [Terra-rian/snakecord](https://github.com/Terra-rian/snakecord)
+3. 💪 Opened PR [#19](https://github.com/ApocalypseCalculator/Someone/pull/19) in [ApocalypseCalculator/Someone](https://github.com/ApocalypseCalculator/Someone)
+4. 🗣 Commented on [#10](https://github.com/Terra-rian/snakecord/issues/10) in [Terra-rian/snakecord](https://github.com/Terra-rian/snakecord)
+5. ❗️ Closed issue [#10](https://github.com/Terra-rian/snakecord/issues/10) in [Terra-rian/snakecord](https://github.com/Terra-rian/snakecord)
+<!--END_SECTION:activity-->
 
 ## Platforms / Environments / Tools
 
