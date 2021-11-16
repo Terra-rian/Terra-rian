@@ -1,8 +1,12 @@
 # Hi there! 👋
 
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=terrarian-terrarian.visitor.badge.reloaded)
+
 Welcome to my GitHub profile! This is still a work in progress, so don't expect too much from me!
 
 My Discord account is Terrarian#1265. I do competitive coding sometimes, but I mostly write code for hobby projects such as my Discord bot.
+
+<!--START_SECTION:activity-->
 
 ## Platforms / Environments / Tools
 
