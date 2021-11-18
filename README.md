@@ -6,13 +6,21 @@ Welcome to my GitHub profile! This is still a work in progress, so don't expect 
 
 My Discord account is Terrarian#1265. I do competitive coding sometimes, but I mostly write code for hobby projects such as my Discord bot.
 
-## Platforms / Environments / Tools
+## Platforms
 
-![](https://camo.githubusercontent.com/d285a3257cb8d91cc4019b67bfd8f1e6d437fe04987832b1fa32d4d83504a56b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64654a532d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d464646464646 "NodeJS") ![](https://camo.githubusercontent.com/03cf4131a3ec3a14cc096962b51370c94cf11a985d367bcb29f4e63feb0a74e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d464646464646 "Git") ![](https://camo.githubusercontent.com/648458d3ed4a4d9d84a87a354e60e9cae87a72092e21abefa162091580525c7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6f676c6520436c6f75642d3432383546343f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d464646464646 "Google Cloud") ![](https://camo.githubusercontent.com/cb3eee95d841ef0f10b326957dba08b10b66a7c030137adc33980a5afb3a128e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3437413234383f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d464646464646 "MongoDB")
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows") ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white "Debian")
+
+## Environments
+
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB") ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white "NodeJS") ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL") ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")
+
+## Tools
+
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git") ![](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white "CMake") ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")
 
 ## Code Languages
 
-![](https://camo.githubusercontent.com/fd711c3d9436a4c65d3268ff77bdc48196b2d876ba076e5b58467d319a6ff4da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661 "Java") ![](https://camo.githubusercontent.com/8f43425702111cf74b8533f47f540e0800740979cdd6a0d59fafef11d1287cc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63 "C++") ![](https://camo.githubusercontent.com/8b76dad952a5f01b227f0fc83168009e115d7a0c5f9eca6ea918d6ae4e71b8ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074 "TypeScript") ![](https://camo.githubusercontent.com/b3ee8a9836d8032cc7165d623912c0d6792c830c86413c1d128fa18d62170025/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d464646464646 "JavaScript") ![](https://camo.githubusercontent.com/f19ebc354a9f7a381684e78824b5124cc14f3f6decdd57436482522cfd00e536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d464646464646 "HTML5")
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python") ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5") ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3") ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "JavaScript") ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript") ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "C") ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++") ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java") ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white "JSON")
 
 ## My Latest GitHub Activity
 <!--START_SECTION:activity-->
