@@ -23,17 +23,8 @@ My Discord account is Terrarian#1265. I do competitive coding sometimes, but I m
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python") ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5") ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3") ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "JavaScript") ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript") ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "C") ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++") ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java") ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white "JSON")
 
 ## My Latest GitHub Activity
-<!--RECENT_ACTIVITY:start-->
-1. 
-2. 
-3. 
-4. 
-5. 
-<!--RECENT_ACTIVITY:end-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 25th, 2021, 3:51:38 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+<!--START_SECTION:activity-->
 
 <details open>
 <summary>My GitHub Stats</summary>
