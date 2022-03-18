@@ -25,6 +25,9 @@ My Discord account is Terrarian#1265. I do competitive coding sometimes, but I m
 ## My Latest GitHub Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#2](https://github.com/Terra-rian/Terra-rian/pull/2) in [Terra-rian/Terra-rian](https://github.com/Terra-rian/Terra-rian)
+2. 🗣 Commented on [#2](https://github.com/Terra-rian/Terra-rian/issues/2) in [Terra-rian/Terra-rian](https://github.com/Terra-rian/Terra-rian)
+<!--END_SECTION:activity-->
 
 <details open>
 <summary>My GitHub Stats</summary>
