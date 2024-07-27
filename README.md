@@ -5,7 +5,7 @@
 C++ hobbyist, JavaScript / TypeScript enthusiast, average competitive programmer :D  
 
 Website: `COMING SOON!`  
-Discord: `Terrarian#1265`
+Discord: `terra_rian`
 
 ## Platforms
 
